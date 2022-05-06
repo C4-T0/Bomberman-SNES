@@ -7,5 +7,5 @@
 
 # Próxima reunión (Miércoles 11 de mayo)
 - Moviemiento del personaje(Carlos Torres)
-- Bomba (Andras Acosta)
+- Bomba (Andres Acosta)
 - Mapa (Hernan Cuartas)
