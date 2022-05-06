@@ -24,7 +24,7 @@
 /*.vscode
 /*.sublime-workspace
 /.idea
-
+.vsconfig
 # Gradle cache directory
 .gradle/
 
