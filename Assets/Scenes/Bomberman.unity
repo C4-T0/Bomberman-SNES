@@ -1244,6 +1244,8 @@ MonoBehaviour:
     m_Bits: 64
   explosionDuration: 1
   explosionRadius: 1
+  destructibleTilemap: {fileID: 109861827}
+  destructiblePrefab: {fileID: 4064239986336804585, guid: aafd15826ac69d64cab25c0ccdd4c130, type: 3}
 --- !u!1 &667002034
 GameObject:
   m_ObjectHideFlags: 0
