@@ -114,4 +114,10 @@ public class BombController : MonoBehaviour
             destructibleTilemap.SetTile(cell, null);
         }
     }
+
+    public void AddBomb()
+    {
+        bombAmount++;
+        bombsRemaining++;
+    } 
 }
