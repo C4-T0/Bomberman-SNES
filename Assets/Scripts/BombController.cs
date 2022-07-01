@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class BombController : MonoBehaviour
 {
@@ -16,6 +17,10 @@ public class BombController : MonoBehaviour
     public LayerMask explosionLayerMask;
     public float explosionDuration = 1f;
     public int explosionRadius = 1;
+
+    [Header("Destructible")]
+    public Tilemap destructibleTilemap;
+    public Destructible destructiblePrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -78,6 +83,7 @@ public class BombController : MonoBehaviour
 
         if (Physics2D.OverlapBox(position, Vector2.one / 2, 0f, explosionLayerMask))
         {
+            ClearDestructible(position);
             return;
         }
 
@@ -94,6 +100,18 @@ public class BombController : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer("Bomb"))
         {
             other.isTrigger = false;
+        }
+    }
+
+    private void ClearDestructible(Vector2 position)
+    {
+        Vector3Int cell = destructibleTilemap.WorldToCell(position);
+        TileBase tile = destructibleTilemap.GetTile(cell);
+
+        if(tile != null)
+        {
+            Instantiate(destructiblePrefab, position, Quaternion.identity);
+            destructibleTilemap.SetTile(cell, null);
         }
     }
 }
