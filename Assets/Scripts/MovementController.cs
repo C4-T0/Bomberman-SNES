@@ -17,6 +17,7 @@ public class MovementController : MonoBehaviour
     public AnimatedSpriteRenderer spriteRendererDown;
     public AnimatedSpriteRenderer spriteRendererLeft;
     public AnimatedSpriteRenderer spriteRendererRight;
+    public AnimatedSpriteRenderer SpriteRendererDeath;
     private AnimatedSpriteRenderer activeSpriteRenderer;
 
     // Start is called before the first frame update
@@ -71,5 +72,33 @@ public class MovementController : MonoBehaviour
 
         activeSpriteRenderer = spriteRenderer;
         activeSpriteRenderer.idle = direction == Vector2.zero;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("DamagingObject"))
+        {
+            DeathSequence();
+        }
+    }
+
+    private void DeathSequence()
+    {
+        enabled = false;
+        GetComponent<BombController>().enabled = false;
+
+        spriteRendererUp.enabled = false;
+        spriteRendererDown.enabled = false;
+        spriteRendererLeft.enabled = false;
+        spriteRendererRight.enabled = false;
+
+        SpriteRendererDeath.enabled = true;
+
+        Invoke(nameof(Death), 1.5f);
+    }
+
+    private void Death()
+    {
+        gameObject.SetActive(false);
     }
 }

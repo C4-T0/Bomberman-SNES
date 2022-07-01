@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2136408286040274974}
   m_Layer: 0
   m_Name: End
-  m_TagString: Untagged
+  m_TagString: DamagingObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,7 +121,7 @@ GameObject:
   - component: {fileID: 6980849325600200210}
   m_Layer: 0
   m_Name: Start
-  m_TagString: Untagged
+  m_TagString: DamagingObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 3337093339966458664}
   m_Layer: 0
   m_Name: Middle
-  m_TagString: Untagged
+  m_TagString: DamagingObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -337,7 +337,7 @@ GameObject:
   - component: {fileID: -4418519077501614579}
   m_Layer: 0
   m_Name: Explosion
-  m_TagString: Untagged
+  m_TagString: DamagingObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
