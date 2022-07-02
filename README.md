@@ -13,4 +13,4 @@
 
 # Imagenes
 
-![BombermamGameplay](https://ibb.co/zVMFxtn)
+![BombermamGameplay](https://i.imgur.com/6yOdzfM.png)
