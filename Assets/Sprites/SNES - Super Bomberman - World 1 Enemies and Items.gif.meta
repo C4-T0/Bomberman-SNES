@@ -1,0 +1,3288 @@
+fileFormatVersion: 2
+guid: 3771261b593ba5c4a823000bde3d0bb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7365570211034708924
+    second: SNES - Super Bomberman - World 1 Enemies and Items_0
+  - first:
+      213: 7334834537439521219
+    second: SNES - Super Bomberman - World 1 Enemies and Items_1
+  - first:
+      213: -4258549410830293366
+    second: SNES - Super Bomberman - World 1 Enemies and Items_2
+  - first:
+      213: 8356832460484742671
+    second: SNES - Super Bomberman - World 1 Enemies and Items_3
+  - first:
+      213: -8336591685098915488
+    second: SNES - Super Bomberman - World 1 Enemies and Items_4
+  - first:
+      213: 5207176131342543180
+    second: SNES - Super Bomberman - World 1 Enemies and Items_5
+  - first:
+      213: 2763423189937002476
+    second: SNES - Super Bomberman - World 1 Enemies and Items_6
+  - first:
+      213: -6445335116188007907
+    second: SNES - Super Bomberman - World 1 Enemies and Items_7
+  - first:
+      213: 6217606017975419477
+    second: SNES - Super Bomberman - World 1 Enemies and Items_8
+  - first:
+      213: -6863589021955018125
+    second: SNES - Super Bomberman - World 1 Enemies and Items_9
+  - first:
+      213: -2136655976891590807
+    second: SNES - Super Bomberman - World 1 Enemies and Items_10
+  - first:
+      213: 304075769930333752
+    second: SNES - Super Bomberman - World 1 Enemies and Items_11
+  - first:
+      213: 7809280258963962554
+    second: SNES - Super Bomberman - World 1 Enemies and Items_12
+  - first:
+      213: 9076803273650879456
+    second: SNES - Super Bomberman - World 1 Enemies and Items_13
+  - first:
+      213: -6036168123673693924
+    second: SNES - Super Bomberman - World 1 Enemies and Items_14
+  - first:
+      213: 1230218195223985708
+    second: SNES - Super Bomberman - World 1 Enemies and Items_15
+  - first:
+      213: 4017202247161391794
+    second: SNES - Super Bomberman - World 1 Enemies and Items_16
+  - first:
+      213: 7245104840012257357
+    second: SNES - Super Bomberman - World 1 Enemies and Items_17
+  - first:
+      213: 245751031669355198
+    second: SNES - Super Bomberman - World 1 Enemies and Items_18
+  - first:
+      213: -4825898218963951863
+    second: SNES - Super Bomberman - World 1 Enemies and Items_19
+  - first:
+      213: 8049076532713615163
+    second: SNES - Super Bomberman - World 1 Enemies and Items_20
+  - first:
+      213: 425236190313225047
+    second: SNES - Super Bomberman - World 1 Enemies and Items_21
+  - first:
+      213: -8137657895423920260
+    second: SNES - Super Bomberman - World 1 Enemies and Items_22
+  - first:
+      213: -4069046271349474616
+    second: SNES - Super Bomberman - World 1 Enemies and Items_23
+  - first:
+      213: 3120491556308652464
+    second: SNES - Super Bomberman - World 1 Enemies and Items_24
+  - first:
+      213: -1549960079270936332
+    second: SNES - Super Bomberman - World 1 Enemies and Items_25
+  - first:
+      213: 5976503756629673652
+    second: SNES - Super Bomberman - World 1 Enemies and Items_26
+  - first:
+      213: -3610928434895979778
+    second: SNES - Super Bomberman - World 1 Enemies and Items_27
+  - first:
+      213: 9217188794048830966
+    second: SNES - Super Bomberman - World 1 Enemies and Items_28
+  - first:
+      213: -3613458788965802498
+    second: SNES - Super Bomberman - World 1 Enemies and Items_29
+  - first:
+      213: 2265691302045733960
+    second: SNES - Super Bomberman - World 1 Enemies and Items_30
+  - first:
+      213: -4314394101826381089
+    second: SNES - Super Bomberman - World 1 Enemies and Items_31
+  - first:
+      213: 3272491936086889558
+    second: SNES - Super Bomberman - World 1 Enemies and Items_32
+  - first:
+      213: 8174009449757271944
+    second: SNES - Super Bomberman - World 1 Enemies and Items_33
+  - first:
+      213: -7597727904551346383
+    second: SNES - Super Bomberman - World 1 Enemies and Items_34
+  - first:
+      213: -8727289537387436128
+    second: SNES - Super Bomberman - World 1 Enemies and Items_35
+  - first:
+      213: -5125725515577901562
+    second: SNES - Super Bomberman - World 1 Enemies and Items_36
+  - first:
+      213: 3322291245229776735
+    second: SNES - Super Bomberman - World 1 Enemies and Items_37
+  - first:
+      213: -1746082051676128497
+    second: SNES - Super Bomberman - World 1 Enemies and Items_38
+  - first:
+      213: 3390943021013973349
+    second: SNES - Super Bomberman - World 1 Enemies and Items_39
+  - first:
+      213: -5225413887721459313
+    second: SNES - Super Bomberman - World 1 Enemies and Items_40
+  - first:
+      213: -1539277352639161377
+    second: SNES - Super Bomberman - World 1 Enemies and Items_41
+  - first:
+      213: -3495953580596290112
+    second: SNES - Super Bomberman - World 1 Enemies and Items_42
+  - first:
+      213: -4965986786341824589
+    second: SNES - Super Bomberman - World 1 Enemies and Items_43
+  - first:
+      213: 7919292972428756041
+    second: SNES - Super Bomberman - World 1 Enemies and Items_44
+  - first:
+      213: -8262502542921981911
+    second: SNES - Super Bomberman - World 1 Enemies and Items_45
+  - first:
+      213: -5077920126860587271
+    second: SNES - Super Bomberman - World 1 Enemies and Items_46
+  - first:
+      213: 7554932887143369358
+    second: SNES - Super Bomberman - World 1 Enemies and Items_47
+  - first:
+      213: -5473335755072035634
+    second: SNES - Super Bomberman - World 1 Enemies and Items_48
+  - first:
+      213: 7366521619216935062
+    second: SNES - Super Bomberman - World 1 Enemies and Items_49
+  - first:
+      213: 6714157943224085520
+    second: SNES - Super Bomberman - World 1 Enemies and Items_50
+  - first:
+      213: 7378657225265652521
+    second: SNES - Super Bomberman - World 1 Enemies and Items_51
+  - first:
+      213: 2841589344524128180
+    second: SNES - Super Bomberman - World 1 Enemies and Items_52
+  - first:
+      213: -6842263032862522840
+    second: SNES - Super Bomberman - World 1 Enemies and Items_53
+  - first:
+      213: -6241442685206270540
+    second: SNES - Super Bomberman - World 1 Enemies and Items_54
+  - first:
+      213: 3591886129782686195
+    second: SNES - Super Bomberman - World 1 Enemies and Items_55
+  - first:
+      213: 364872024593153936
+    second: SNES - Super Bomberman - World 1 Enemies and Items_56
+  - first:
+      213: 72727157748249729
+    second: SNES - Super Bomberman - World 1 Enemies and Items_57
+  - first:
+      213: -2100556497921548291
+    second: SNES - Super Bomberman - World 1 Enemies and Items_58
+  - first:
+      213: 152841921578346436
+    second: SNES - Super Bomberman - World 1 Enemies and Items_59
+  - first:
+      213: 5077076088908939817
+    second: SNES - Super Bomberman - World 1 Enemies and Items_60
+  - first:
+      213: -3975960814581650819
+    second: SNES - Super Bomberman - World 1 Enemies and Items_61
+  - first:
+      213: 1735893210758108096
+    second: SNES - Super Bomberman - World 1 Enemies and Items_62
+  - first:
+      213: 6252900427549651590
+    second: SNES - Super Bomberman - World 1 Enemies and Items_63
+  - first:
+      213: -2408206258305297623
+    second: SNES - Super Bomberman - World 1 Enemies and Items_64
+  - first:
+      213: 4347127076825596154
+    second: SNES - Super Bomberman - World 1 Enemies and Items_65
+  - first:
+      213: -2442616133132928068
+    second: SNES - Super Bomberman - World 1 Enemies and Items_66
+  - first:
+      213: 5822448774835627959
+    second: SNES - Super Bomberman - World 1 Enemies and Items_67
+  - first:
+      213: 1257001331935632364
+    second: SNES - Super Bomberman - World 1 Enemies and Items_68
+  - first:
+      213: 779447154471177852
+    second: SNES - Super Bomberman - World 1 Enemies and Items_69
+  - first:
+      213: -2855368095487634686
+    second: SNES - Super Bomberman - World 1 Enemies and Items_70
+  - first:
+      213: -5792104891477701105
+    second: SNES - Super Bomberman - World 1 Enemies and Items_71
+  - first:
+      213: -4941607713260721428
+    second: SNES - Super Bomberman - World 1 Enemies and Items_72
+  - first:
+      213: -8430657178795957021
+    second: SNES - Super Bomberman - World 1 Enemies and Items_73
+  - first:
+      213: 2127564289873181380
+    second: SNES - Super Bomberman - World 1 Enemies and Items_74
+  - first:
+      213: 68632664400744573
+    second: SNES - Super Bomberman - World 1 Enemies and Items_75
+  - first:
+      213: 6110183726369710736
+    second: SNES - Super Bomberman - World 1 Enemies and Items_76
+  - first:
+      213: 3021779419190595209
+    second: SNES - Super Bomberman - World 1 Enemies and Items_77
+  - first:
+      213: 4851364283235135739
+    second: SNES - Super Bomberman - World 1 Enemies and Items_78
+  - first:
+      213: 5748821071996749567
+    second: SNES - Super Bomberman - World 1 Enemies and Items_79
+  - first:
+      213: 7443032220852902981
+    second: SNES - Super Bomberman - World 1 Enemies and Items_80
+  - first:
+      213: 8408566371828216246
+    second: SNES - Super Bomberman - World 1 Enemies and Items_81
+  - first:
+      213: -1879273879504770031
+    second: SNES - Super Bomberman - World 1 Enemies and Items_82
+  - first:
+      213: -7234761030874406498
+    second: SNES - Super Bomberman - World 1 Enemies and Items_83
+  - first:
+      213: 4332052466520143822
+    second: SNES - Super Bomberman - World 1 Enemies and Items_84
+  - first:
+      213: -4203024449693216030
+    second: SNES - Super Bomberman - World 1 Enemies and Items_85
+  - first:
+      213: 7074902210200629291
+    second: SNES - Super Bomberman - World 1 Enemies and Items_86
+  - first:
+      213: -3261180199679660101
+    second: SNES - Super Bomberman - World 1 Enemies and Items_87
+  - first:
+      213: 7739387077351021801
+    second: SNES - Super Bomberman - World 1 Enemies and Items_88
+  - first:
+      213: -3272562347983881350
+    second: SNES - Super Bomberman - World 1 Enemies and Items_89
+  - first:
+      213: -8626271304292530449
+    second: SNES - Super Bomberman - World 1 Enemies and Items_90
+  - first:
+      213: 4896918385630542669
+    second: SNES - Super Bomberman - World 1 Enemies and Items_91
+  - first:
+      213: -4129984587095317904
+    second: SNES - Super Bomberman - World 1 Enemies and Items_92
+  - first:
+      213: 1337349517378109912
+    second: SNES - Super Bomberman - World 1 Enemies and Items_93
+  - first:
+      213: 2695432003203175447
+    second: SNES - Super Bomberman - World 1 Enemies and Items_94
+  - first:
+      213: 5520545349979503923
+    second: SNES - Super Bomberman - World 1 Enemies and Items_95
+  - first:
+      213: 1958806086825305326
+    second: SNES - Super Bomberman - World 1 Enemies and Items_96
+  - first:
+      213: -8279443159760052165
+    second: SNES - Super Bomberman - World 1 Enemies and Items_97
+  - first:
+      213: 8561034226258348844
+    second: SNES - Super Bomberman - World 1 Enemies and Items_98
+  - first:
+      213: 4528318484524338515
+    second: SNES - Super Bomberman - World 1 Enemies and Items_99
+  - first:
+      213: -8942170100209210911
+    second: SNES - Super Bomberman - World 1 Enemies and Items_100
+  - first:
+      213: -6922904226953289471
+    second: SNES - Super Bomberman - World 1 Enemies and Items_101
+  - first:
+      213: -6364257942361361643
+    second: SNES - Super Bomberman - World 1 Enemies and Items_102
+  - first:
+      213: 5204071517037146244
+    second: SNES - Super Bomberman - World 1 Enemies and Items_103
+  - first:
+      213: 5621370280270825101
+    second: SNES - Super Bomberman - World 1 Enemies and Items_104
+  - first:
+      213: -8947469796348272803
+    second: SNES - Super Bomberman - World 1 Enemies and Items_105
+  - first:
+      213: -8367211922837785584
+    second: SNES - Super Bomberman - World 1 Enemies and Items_106
+  - first:
+      213: -8349071511516164764
+    second: SNES - Super Bomberman - World 1 Enemies and Items_107
+  - first:
+      213: 8978539475405279982
+    second: SNES - Super Bomberman - World 1 Enemies and Items_108
+  - first:
+      213: 3150704875410648401
+    second: SNES - Super Bomberman - World 1 Enemies and Items_109
+  - first:
+      213: 7891729675400281121
+    second: SNES - Super Bomberman - World 1 Enemies and Items_110
+  - first:
+      213: 237594631266745304
+    second: SNES - Super Bomberman - World 1 Enemies and Items_111
+  - first:
+      213: 186556141171970478
+    second: SNES - Super Bomberman - World 1 Enemies and Items_112
+  - first:
+      213: -387127901526548775
+    second: SNES - Super Bomberman - World 1 Enemies and Items_113
+  - first:
+      213: -5253795514811320543
+    second: SNES - Super Bomberman - World 1 Enemies and Items_114
+  - first:
+      213: 1325333904288314395
+    second: SNES - Super Bomberman - World 1 Enemies and Items_115
+  - first:
+      213: -2997263049609768816
+    second: SNES - Super Bomberman - World 1 Enemies and Items_116
+  - first:
+      213: -4797454346733201992
+    second: SNES - Super Bomberman - World 1 Enemies and Items_117
+  - first:
+      213: -5847182423695775837
+    second: SNES - Super Bomberman - World 1 Enemies and Items_118
+  - first:
+      213: 3551825498432614484
+    second: SNES - Super Bomberman - World 1 Enemies and Items_119
+  - first:
+      213: 6093071158594668389
+    second: SNES - Super Bomberman - World 1 Enemies and Items_120
+  - first:
+      213: 1888808941825338773
+    second: SNES - Super Bomberman - World 1 Enemies and Items_121
+  - first:
+      213: -6894523269996961365
+    second: SNES - Super Bomberman - World 1 Enemies and Items_122
+  - first:
+      213: -6880029780356209168
+    second: SNES - Super Bomberman - World 1 Enemies and Items_123
+  - first:
+      213: -1593588563839062532
+    second: SNES - Super Bomberman - World 1 Enemies and Items_124
+  - first:
+      213: 5708741662991252149
+    second: SNES - Super Bomberman - World 1 Enemies and Items_125
+  - first:
+      213: -7143102587101415997
+    second: SNES - Super Bomberman - World 1 Enemies and Items_126
+  - first:
+      213: 2652603033755052494
+    second: SNES - Super Bomberman - World 1 Enemies and Items_127
+  - first:
+      213: -4224562244949209407
+    second: SNES - Super Bomberman - World 1 Enemies and Items_128
+  - first:
+      213: -8178799799244738137
+    second: SNES - Super Bomberman - World 1 Enemies and Items_129
+  - first:
+      213: -5571792881214713239
+    second: SNES - Super Bomberman - World 1 Enemies and Items_130
+  - first:
+      213: 7884463129428181631
+    second: SNES - Super Bomberman - World 1 Enemies and Items_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3cec1513c73660800000000000000
+      internalID: 7365570211034708924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9695276219ac560800000000000000
+      internalID: 7334834537439521219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86e205afd796e4c0800000000000000
+      internalID: -4258549410830293366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e85aea8de69f370800000000000000
+      internalID: 8356832460484742671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693434180a7e4c80800000000000000
+      internalID: -8336591685098915488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a0974a1b934840800000000000000
+      internalID: 5207176131342543180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7954000c6a95620800000000000000
+      internalID: 2763423189937002476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1243455cd19d86a0800000000000000
+      internalID: -6445335116188007907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55281c62bbf594650800000000000000
+      internalID: 6217606017975419477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b91e3622afb0a0800000000000000
+      internalID: -6863589021955018125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9675922a5b21952e0800000000000000
+      internalID: -2136655976891590807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e308b3d4b483400800000000000000
+      internalID: 304075769930333752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba740b2503206c60800000000000000
+      internalID: 7809280258963962554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb30168c7847fd70800000000000000
+      internalID: 9076803273650879456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b4ef82193b3ca0800000000000000
+      internalID: -6036168123673693924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3c8a3eec921110800000000000000
+      internalID: 1230218195223985708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa4f4e828ffb730800000000000000
+      internalID: 4017202247161391794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d46d3778cb8460800000000000000
+      internalID: 7245104840012257357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb276d1e245196300800000000000000
+      internalID: 245751031669355198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f96787327f60db0800000000000000
+      internalID: -4825898218963951863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe35ee57014bf60800000000000000
+      internalID: 8049076532713615163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9245ef0eb6e500800000000000000
+      internalID: 425236190313225047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 239
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ba9f524b311f80800000000000000
+      internalID: -8137657895423920260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca369599f7d787c0800000000000000
+      internalID: -4069046271349474616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1126299863e4b20800000000000000
+      internalID: 3120491556308652464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0050b158f6d7ae0800000000000000
+      internalID: -1549960079270936332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b603b4708ec0f250800000000000000
+      internalID: 5976503756629673652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafaa058b763edc0800000000000000
+      internalID: -3610928434895979778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdddf89f580aef70800000000000000
+      internalID: 9217188794048830966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd1e29506a6addc0800000000000000
+      internalID: -3613458788965802498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d02d2c3a517f10800000000000000
+      internalID: 2265691302045733960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 297
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda199b4c613024c0800000000000000
+      internalID: -4314394101826381089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6541ac4d31a3a6d20800000000000000
+      internalID: 3272491936086889558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887e77b694aef6170800000000000000
+      internalID: 8174009449757271944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd42da9b27f8690800000000000000
+      internalID: -7597727904551346383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e908a76072e680800000000000000
+      internalID: -8727289537387436128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb2d30dc3cdd8b0800000000000000
+      internalID: -5125725515577901562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9f4809462b1e20800000000000000
+      internalID: 3322291245229776735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb82900aba4c7e0800000000000000
+      internalID: -1746082051676128497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b02d26bc0f0f20800000000000000
+      internalID: 3390943021013973349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8138f921c99b77b0800000000000000
+      internalID: -5225413887721459313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb9329376363aae0800000000000000
+      internalID: -1539277352639161377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd9d45adb0eb7fc0800000000000000
+      internalID: -3495953580596290112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7dfc82455451bb0800000000000000
+      internalID: -4965986786341824589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440ddd000bf6ed60800000000000000
+      internalID: 7919292972428756041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920af5db6b1b55d80800000000000000
+      internalID: -8262502542921981911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0ba07c8a9789b0800000000000000
+      internalID: -5077920126860587271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac810ee6388d860800000000000000
+      internalID: 7554932887143369358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ac76312eca04b0800000000000000
+      internalID: -5473335755072035634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69829a712642b3660800000000000000
+      internalID: 7366521619216935062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2db3831b7d2d50800000000000000
+      internalID: 6714157943224085520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923245f07a1466660800000000000000
+      internalID: 7378657225265652521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf45e5147a5f6720800000000000000
+      internalID: 2841589344524128180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822417206066b01a0800000000000000
+      internalID: -6842263032862522840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde15642f0f169a0800000000000000
+      internalID: -6241442685206270540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f189578761f8d130800000000000000
+      internalID: 3591886129782686195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3a565c29401500800000000000000
+      internalID: 364872024593153936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184bb13f6f0620100800000000000000
+      internalID: 72727157748249729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5fbe8ef259d2e0800000000000000
+      internalID: -2100556497921548291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7277afae00f1200800000000000000
+      internalID: 152841921578346436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 227
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220c09adc5657640800000000000000
+      internalID: 5077076088908939817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aecf564bc82d8c0800000000000000
+      internalID: -3975960814581650819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3df339da1271810800000000000000
+      internalID: 1735893210758108096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_63
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6823cff3fc3c6c650800000000000000
+      internalID: 6252900427549651590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92317d3da25549ed0800000000000000
+      internalID: -2408206258305297623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_65
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00ca75b09145c30800000000000000
+      internalID: 4347127076825596154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 190
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb39f581951a1ed0800000000000000
+      internalID: -2442616133132928068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b76cf2ef4e7dc050800000000000000
+      internalID: 5822448774835627959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb57303d04c17110800000000000000
+      internalID: 1257001331935632364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e817bae0721da00800000000000000
+      internalID: 779447154471177852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203d97578d1bf58d0800000000000000
+      internalID: -2855368095487634686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_71
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4ba10a4f4e9fa0800000000000000
+      internalID: -5792104891477701105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 200
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa3cf67f1eb6bb0800000000000000
+      internalID: -4941607713260721428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 200
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e425c2a6f9400b80800000000000000
+      internalID: -8430657178795957021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 200
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca72b60370a68d10800000000000000
+      internalID: 2127564289873181380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 187
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70589d6b05d3f000800000000000000
+      internalID: 68632664400744573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 200
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092a3aad9bbbbc450800000000000000
+      internalID: 6110183726369710736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e01762f548fe920800000000000000
+      internalID: 3021779419190595209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_78
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 200
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf07f3aac12835340800000000000000
+      internalID: 4851364283235135739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_79
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 200
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff685a17e4ae7cf40800000000000000
+      internalID: 5748821071996749567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 200
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c59b7be56fa4760800000000000000
+      internalID: 7443032220852902981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bd1f809a31b470800000000000000
+      internalID: 8408566371828216246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca2780d5a7be5e0800000000000000
+      internalID: -1879273879504770031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9164ef7c27f89b90800000000000000
+      internalID: -7234761030874406498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_84
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b94f14ca8e1c30800000000000000
+      internalID: 4332052466520143822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e211c5188bdba5c0800000000000000
+      internalID: -4203024449693216030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2072a3631a1f2260800000000000000
+      internalID: 7074902210200629291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_87
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf6e8903e5fdb2d0800000000000000
+      internalID: -3261180199679660101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec91c4ba83d76b60800000000000000
+      internalID: 7739387077351021801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b3a1f12e58592d0800000000000000
+      internalID: -3272562347983881350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe68f73e3f3594880800000000000000
+      internalID: -8626271304292530449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7695a35955f340800000000000000
+      internalID: 4896918385630542669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 185
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072685e46e85fa6c0800000000000000
+      internalID: -4129984587095317904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_93
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ccdbec483f8210800000000000000
+      internalID: 1337349517378109912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_94
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 187
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714152b3029186520800000000000000
+      internalID: 2695432003203175447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 187
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d76f72fbaec9c40800000000000000
+      internalID: 5520545349979503923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 185
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4681df1c31f2b10800000000000000
+      internalID: 1958806086825305326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 187
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e6740052891d80800000000000000
+      internalID: -8279443159760052165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_98
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 187
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b071e3547eec670800000000000000
+      internalID: 8561034226258348844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_99
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d88eb6ba1d7de30800000000000000
+      internalID: 4528318484524338515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 187
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e929e7eba707e380800000000000000
+      internalID: -8942170100209210911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_101
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1012662e847ecef90800000000000000
+      internalID: -6922904226953289471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b796ee1d9da7a0800000000000000
+      internalID: -6364257942361361643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4803abee873983840800000000000000
+      internalID: 5204071517037146244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860b729c7e130e40800000000000000
+      internalID: 5621370280270825101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_105
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fdf1e30a334d380800000000000000
+      internalID: -8947469796348272803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01437da6611b1eb80800000000000000
+      internalID: -8367211922837785584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dcebf02b3222c80800000000000000
+      internalID: -8349071511516164764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_108
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29a51251e2a9c70800000000000000
+      internalID: 8978539475405279982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d61fa146d89bb20800000000000000
+      internalID: 3150704875410648401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c74add35e058d60800000000000000
+      internalID: 7891729675400281121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_111
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb13dee0b1c4300800000000000000
+      internalID: 237594631266745304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 54
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1193d62d7c69200800000000000000
+      internalID: 186556141171970478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 149
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1ed28935a0aaf0800000000000000
+      internalID: -387127901526548775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_114
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1277129a0d4c617b0800000000000000
+      internalID: -5253795514811320543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_115
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 149
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f2edf928846210800000000000000
+      internalID: 1325333904288314395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_116
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0901b95f2259766d0800000000000000
+      internalID: -2997263049609768816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b550dc80b40c6db0800000000000000
+      internalID: -4797454346733201992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_118
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 129
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7a4bab092aadea0800000000000000
+      internalID: -5847182423695775837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 147
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503042f87e9a4130800000000000000
+      internalID: 3551825498432614484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_120
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567863fafefee8450800000000000000
+      internalID: 6093071158594668389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_121
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 149
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da41aa9b5663a10800000000000000
+      internalID: 1888808941825338773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_122
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 149
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1aa2c5d9bb150a0800000000000000
+      internalID: -6894523269996961365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_123
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 149
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f562c1ed593580a0800000000000000
+      internalID: -6880029780356209168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_124
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 149
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd6f36f4af62e9e0800000000000000
+      internalID: -1593588563839062532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 149
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf019db46893f40800000000000000
+      internalID: 5708741662991252149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_126
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 149
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c575a5fa0a9edc90800000000000000
+      internalID: -7143102587101415997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_127
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 54
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e715b760ffc420800000000000000
+      internalID: 2652603033755052494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_128
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 134
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce864a55075f55c0800000000000000
+      internalID: -4224562244949209407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13bfc6ae01f7e80800000000000000
+      internalID: -8178799799244738137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_130
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962952925e30da2b0800000000000000
+      internalID: -5571792881214713239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 1 Enemies and Items_131
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 54
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724b3a417d3b6d60800000000000000
+      internalID: 7884463129428181631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

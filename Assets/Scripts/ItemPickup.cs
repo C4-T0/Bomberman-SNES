@@ -20,13 +20,13 @@ public class ItemPickup : MonoBehaviour
         switch (type)
         {
             case ItemType.ExtraBomb:
-                player.GetComponent<BombController>().AddBomb();
+                player.GetComponent<newBombController>().AddBomb();
                 break;
             case ItemType.BlastRadius:
-                player.GetComponent<BombController>().explosionRadius++;
+                player.GetComponent<newBombController>().explosionRadius++;
                 break;
             case ItemType.SpeedIncrease:
-                player.GetComponent<MovementController>().speed++;
+                player.GetComponent<newPlayerMovementController>().speed++;
                 break;
         }
 

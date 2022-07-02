@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8204910003165688396}
   - component: {fileID: 3044498030917551818}
   - component: {fileID: 4064239986336804585}
+  - component: {fileID: 2843922537859281767}
   m_Layer: 0
   m_Name: Destructible
   m_TagString: Untagged
@@ -153,3 +154,22 @@ MonoBehaviour:
   - {fileID: 5779630561262538492, guid: 5c345780ebed528468907009f5977359, type: 3}
   - {fileID: 3332611468640562066, guid: 07afafa3a95eb2d49a0d83d5feb0bafa, type: 3}
   - {fileID: 6266150679971078201, guid: f206d78f55bd7ec42b8ed406523e061b, type: 3}
+--- !u!95 &2843922537859281767
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8965018918155453132}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 51839e9041316f44d98a4756a762570c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
