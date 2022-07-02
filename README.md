@@ -1,11 +1,16 @@
-# Todo list:
-- Movimiento y obstáculos
-- Poner Bomba, explosión y daño
-- Al menos 2 tipos de bloques: destruibles y no destruibles
-- 2 o más enemigos
-- 2 o más power ups
+# Integrantes
+- Carlos Alejandro Torres Albarracin
+- Andres Acosta Hernandez
 
-# Próxima reunión (Miércoles 11 de mayo)
-- Moviemiento del personaje(Carlos Torres)
-- Bomba (Andres Acosta)
-- Mapa (Hernan Cuartas)
+# Descripción del proyecto
+- Bomberman (SNES)
+
+# Versión de unity
+- 2020.3.30f1
+
+# Paquetes
+- No se utilizó ningun paquete
+
+# Imagenes
+
+![BombermamGameplay](https://ibb.co/zVMFxtn)
