@@ -7,6 +7,7 @@ public class newPlayerMovementController : MonoBehaviour
 
 
     private new Rigidbody2D rigidbody;
+    private new Collider2D collider;
     private Vector2 direction = Vector2.down;
     public float speed = 5f;
 
@@ -16,24 +17,25 @@ public class newPlayerMovementController : MonoBehaviour
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
+        collider = GetComponent<Collider2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
 
         if (Input.GetAxisRaw("Horizontal") != 0)
         {
             animator.SetFloat("xInput", Input.GetAxisRaw("Horizontal"));
             animator.SetFloat("yInput", 0);
         }
-        if(Input.GetAxisRaw("Vertical") != 0)
+        if (Input.GetAxisRaw("Vertical") != 0)
         {
             animator.SetFloat("xInput", 0);
             animator.SetFloat("yInput", Input.GetAxisRaw("Vertical"));
         }
-        
+
     }
 
     private void FixedUpdate()
@@ -51,7 +53,7 @@ public class newPlayerMovementController : MonoBehaviour
         {
             animator.SetBool("isWalking", false);
         }
-        
+
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -62,8 +64,20 @@ public class newPlayerMovementController : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.collider.CompareTag("DamagingObject"))
+        {
+            DeathSequence();
+        }
+
+    }
+
+
     private void DeathSequence()
     {
+        collider.enabled = false;
         enabled = false;
         GetComponent<newBombController>().enabled = false;
         animator.SetBool("isDeath", true);
